@@ -9,3 +9,6 @@
 	                      Follow the tutorials provided	
 	                      Design your own application.  Please make sure you can manage your time.   You need to accomplish this                         task in the next 10 days.	
                         Update your Trello daily.  Use GitHub for code management	
+			
+# The folder: part1/foodtracker is not the final answer!
+# Please look at the FoodTracker folder!
