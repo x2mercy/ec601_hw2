@@ -12,5 +12,4 @@
 			
 # The folder: part1/foodtracker is not the final answer!
 # Please look at the FoodTracker folder!
-
-#trello link:https://trello.com/b/v0H06rqk/ec602hw2
+# trello link:https://trello.com/b/v0H06rqk/ec602hw2
